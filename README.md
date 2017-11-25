@@ -13,3 +13,5 @@ The installation process is simple
 
 # Known Issues
 If you are running on a system (Like mine) where your AppData folder is on a drive different than your C: drive, the code will NOT work due to PATH variables (To check if this is your issue, Press Windows Key + R and type in "%appdata%Microsoft\Windows\Start Menu\Programs\Chrome Apps" without quotes and press enter, it will say "location not available" oe something along those lines)
+
+Windows SmartScreen will flag the application, to fix this click more information then run anyway
